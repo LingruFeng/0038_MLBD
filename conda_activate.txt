@@ -1,0 +1,7 @@
+打开Anaconda Powershell Prompt
+复制粘贴：
+cd C:\
+cd E:
+cd STUDY\UCL\postgraduate\module\0038_MLBD
+conda activate MLBDenv
+jupyter notebook
